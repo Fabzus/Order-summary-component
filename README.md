@@ -22,7 +22,7 @@ This is a solution to the [Order summary component](https://www.frontendmentor.i
 ### Links
 
 - Solution URL: [github](https://github.com/Fabzus/Order-summary-component)
-- Live Site URL: [github](https://fabzus.github.io/NFT-preview-card-component/)
+- Live Site URL: [github](https://fabzus.github.io/Order-summary-component/)
 
 ## My process
 
